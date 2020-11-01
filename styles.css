@@ -22,7 +22,7 @@
   } 
   .carousel-caption h3 {
     color: #fff !important;
-    font: 600 50px Montserrat;
+    font: 600 35px Montserrat;
     letter-spacing: 3px;
     font-size-adjust: unset;
     /* text-shadow: 2px 2px 4px #000000;  */
@@ -32,6 +32,7 @@
     color: #fff !important;
     font-weight: 200;
     font-size: 20px;
+    line-height: 1.25;
     /* text-shadow: 2px 2px 4px #000000; */
     font-size-adjust: unset;
   }
